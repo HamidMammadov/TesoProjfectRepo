@@ -139,7 +139,7 @@ namespace Methods
         #endregion
 
         #region Task 2
-        static void TaskTwo()
+        static void TaskTwo(int a)
         {
 
         }
